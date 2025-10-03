@@ -1,4 +1,4 @@
 # knaveen-demo
 This is my first Git Repository.
 <br>
-Author -  K Naveen
+Author -  Kotla Naveen
